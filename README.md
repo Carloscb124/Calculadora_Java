@@ -17,7 +17,7 @@ Este projeto é uma calculadora simples desenvolvida em **Java**. O objetivo é 
 ## 💻 Tecnologias utilizadas
 
 - Java JDK 17+
-- Editor de código (VS Code, Eclipse, IntelliJ, etc.)
+- Editor de código (VS Code)
 
 ## 🚀 Como executar
 
