@@ -4,7 +4,7 @@ Este projeto é uma calculadora simples desenvolvida em **Java**. O objetivo é 
 
 ## 🖼️ Demonstração
 
-![Demonstração da Calculadora](img/img.png)
+![Demonstração da Calculadora](Calculator\src\img.png)
 
 ## ✨ Funcionalidades
 
