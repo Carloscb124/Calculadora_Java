@@ -143,6 +143,15 @@ public class Calculator {
                                     displayLabel.setText(displayLabel.getText() + buttonValue);
                                 }
                             }
+                            else if (buttonValue == "√") {
+                                double numDisplay = Double.parseDouble(displayLabel.getText());
+                                    if (numDisplay >= 0) {
+                                    double raiz = Math.sqrt(numDisplay);
+                                    displayLabel.setText(reomveZeroDecimal(raiz));
+                                } else {
+                                    displayLabel.setText("Erro"); // Raiz de número negativo
+                                }
+                            }
                                 else if("0123456789".contains(buttonValue)){
                                         if (displayLabel.getText() == "0"){
                                         displayLabel.setText(buttonValue); // Inves de fazer 05 faz 5

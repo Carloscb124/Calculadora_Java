@@ -12,7 +12,7 @@ Este projeto é uma calculadora simples desenvolvida em **Java**. O objetivo é 
 - ✅ Subtração  
 - ✅ Multiplicação  
 - ✅ Divisão  
-- ✅ Interface via terminal  
+- ✅ Interface grafíca 
 
 ## 💻 Tecnologias utilizadas
 
